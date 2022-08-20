@@ -16,5 +16,6 @@ Library Genesis:
 
 Scribd:
 
-https://scribd.com/
+https://scribd.com/ 
+
 https://downscribd.com/ (herramienta para bajar archivos de Scribd)
