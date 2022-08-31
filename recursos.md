@@ -19,3 +19,7 @@ Scribd:
 https://scribd.com/ 
 
 https://downscribd.com/ (herramienta para bajar archivos de Scribd)
+
+## Artículos 
+
+[Teoría Literaria | Wikipedia](https://en.wikipedia.org/wiki/Literary_theory)
